@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
@@ -70,18 +72,29 @@ namespace Training
         {
             this.BringToFront();
             this.Activate();
+            string remindPath = System.IO.Path.Combine(Application.StartupPath, "remind");
+
+            if (!File.Exists(remindPath))
+            {
+                return;
+            }
+            string[] reminds = Directory.GetFiles(remindPath);
+            if (reminds.Length <= 0)
+            {
+                return;
+            }
+
+            Random r = new Random(-47);
+            int index = r.Next(reminds.Length);
+            {
+                Process.Start(reminds[index]);
+            }
         }
 
         private void CloseShowTimer()
         {
             showTimer.Enabled = false;
-        }
-
-        private void PlayMusic()
-        {
-            string file = System.IO.Path.Combine(Application.StartupPath, "永不磨灭的番号.mp3");
-            System.Diagnostics.Process.Start(file);
-        }
+        }      
 
         Node _n = null;
         Node _cur = null; 

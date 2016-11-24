@@ -16,3 +16,4 @@ E:\16\Training\Training\obj\x86\Debug\Training.Properties.Resources.resources
 E:\16\Training\Training\obj\x86\Debug\Training.csproj.GenerateResource.Cache
 E:\16\Training\Training\obj\x86\Debug\Training.FormTimeManagement.resources
 E:\16\Training\Training\obj\x86\Debug\Training.UCTomato.resources
+E:\16\Training\Training\obj\x86\Debug\Training.csprojResolveAssemblyReference.cache
