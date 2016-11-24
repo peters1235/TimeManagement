@@ -1,0 +1,9 @@
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\bin\Debug\Training.exe.config
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\bin\Debug\Training.exe
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\bin\Debug\Training.pdb
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.FormReadTraining.resources
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.Properties.Resources.resources
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.csproj.GenerateResource.Cache
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.exe
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.pdb
+C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.csprojResolveAssemblyReference.cache
