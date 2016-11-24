@@ -74,7 +74,7 @@ namespace Training
             this.Activate();
             string remindPath = System.IO.Path.Combine(Application.StartupPath, "remind");
 
-            if (!File.Exists(remindPath))
+            if (!Directory.Exists(remindPath))
             {
                 return;
             }

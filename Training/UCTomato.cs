@@ -40,8 +40,8 @@ namespace Training
 
         private void timer_Tick(object sender, EventArgs e)
         {
-            txtRemain.Text = _tomato.TimeRemain.ToString("c").Substring(3);
             _tomato.Tick();
+            txtRemain.Text = _tomato.TimeRemain.ToString("c").Substring(3);
             //timer.Start();
             txtRemain.Enabled = false;
         } 
