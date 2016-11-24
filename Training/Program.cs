@@ -10,7 +10,7 @@ namespace Training
     {
         static void Main(string[] args)
         {
-            FormReadTraining f = new FormReadTraining();
+            FormTimeManagement f = new FormTimeManagement();
             Application.Run(f);
         }
     }

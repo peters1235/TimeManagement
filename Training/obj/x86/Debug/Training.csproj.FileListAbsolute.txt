@@ -7,3 +7,12 @@ C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Trainin
 C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.exe
 C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.pdb
 C:\Users\骞\Documents\Visual Studio 2010\Projects\ReadTraining\Training\Training\obj\x86\Debug\Training.csprojResolveAssemblyReference.cache
+E:\16\Training\Training\bin\Debug\Training.exe.config
+E:\16\Training\Training\obj\x86\Debug\Training.exe
+E:\16\Training\Training\obj\x86\Debug\Training.pdb
+E:\16\Training\Training\bin\Debug\Training.exe
+E:\16\Training\Training\bin\Debug\Training.pdb
+E:\16\Training\Training\obj\x86\Debug\Training.Properties.Resources.resources
+E:\16\Training\Training\obj\x86\Debug\Training.csproj.GenerateResource.Cache
+E:\16\Training\Training\obj\x86\Debug\Training.FormTimeManagement.resources
+E:\16\Training\Training\obj\x86\Debug\Training.UCTomato.resources

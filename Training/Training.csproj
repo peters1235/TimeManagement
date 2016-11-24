@@ -38,7 +38,7 @@
     <StartupObject />
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\timer.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\time.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,12 +52,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormReadTraining.cs">
+    <Compile Include="FormTimeManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormReadTraining.Designer.cs">
-      <DependentUpon>FormReadTraining.cs</DependentUpon>
+    <Compile Include="FormTimeManagement.Designer.cs">
+      <DependentUpon>FormTimeManagement.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tomato.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -67,21 +68,33 @@
     </Compile>
     <Compile Include="TrainingPlan.cs" />
     <Compile Include="TrainingStatus.cs" />
+    <Compile Include="UCTomato.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCTomato.Designer.cs">
+      <DependentUpon>UCTomato.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FormReadTraining.resx">
-      <DependentUpon>FormReadTraining.cs</DependentUpon>
+    <EmbeddedResource Include="FormTimeManagement.resx">
+      <DependentUpon>FormTimeManagement.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="UCTomato.resx">
+      <DependentUpon>UCTomato.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\timer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

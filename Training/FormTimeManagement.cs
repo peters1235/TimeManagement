@@ -9,18 +9,20 @@ using System.Windows.Forms;
 
 namespace Training
 {
-    public partial class FormReadTraining : Form
+    public partial class FormTimeManagement : Form
     {
-        public FormReadTraining()
+
+        public FormTimeManagement()
         {
             InitializeComponent();
-            this.Icon = Training.Properties.Resources.timer;
+            this.Icon = Training.Properties.Resources.time;
             int[] arr = new int[] { 180000, 120000, 60000 };
             _n = CreateNode(arr);
             TurnTimers(false);
             showTimer.Tick += (o, e) => { lblRemain.Text = (int.Parse(lblRemain.Text) - 1).ToString(); };
             timer.Tick += new EventHandler(timer_Tick);
-
+            
+            ucTomato1.TimeOver += (o,e) => Remind();
         }
 
         private void TurnTimers(bool on)
@@ -64,7 +66,7 @@ namespace Training
             TurnTimers(false);
         }
 
-        private void Remind()
+        public void Remind()
         {
             this.BringToFront();
             this.Activate();
