@@ -56,12 +56,13 @@
             // 
             // btnTomatoRelaxLong
             // 
+            this.btnTomatoRelaxLong.BackColor = System.Drawing.Color.Ivory;
             this.btnTomatoRelaxLong.Location = new System.Drawing.Point(197, 75);
             this.btnTomatoRelaxLong.Name = "btnTomatoRelaxLong";
             this.btnTomatoRelaxLong.Size = new System.Drawing.Size(75, 23);
             this.btnTomatoRelaxLong.TabIndex = 4;
             this.btnTomatoRelaxLong.Text = "久放松(&L)";
-            this.btnTomatoRelaxLong.UseVisualStyleBackColor = true;
+            this.btnTomatoRelaxLong.UseVisualStyleBackColor = false;
             this.btnTomatoRelaxLong.Click += new System.EventHandler(this.btnTomatoRelaxLong_Click);
             // 
             // btnStopTomato
@@ -179,6 +180,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.HighlightText;
             this.Controls.Add(this.txtRelaxSpan);
             this.Controls.Add(this.txtFocusSpan);
             this.Controls.Add(this.label2);

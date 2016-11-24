@@ -6,6 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Drawing.Drawing2D;
 
 namespace Training
 {
@@ -20,8 +21,35 @@ namespace Training
             InitializeComponent();
             timer.Enabled = false;
             _tomato.TimeOver += _tomato_TimeOver;
+            testLinear();
+
         }
 
+        void testLinear()
+        {
+            Rectangle area = txtFocusSpan.ClientRectangle;
+            
+            Graphics g = this.CreateGraphics();
+ 
+            
+          
+            /*LinearGradientBrush brush = new LinearGradientBrush(this.ClientRectangle, Color.White, Color.Red, LinearGradientMode.Horizontal);
+     Graphics g = this.CreateGraphics();
+     g.FillRectangle(brush, 1, 1, 100, 100);
+     g.DrawString("zhuzhao", this.Font, brush, 1, 1);*/
+            /*LinearGradientBrush brush = new LinearGradientBrush(this.ClientRectangle, Color.White, Color.Red, LinearGradientMode.Horizontal);
+            brush.SetBlendTriangularShape(0.5f);
+            Graphics g = this.CreateGraphics();
+            g.FillRectangle(brush, 1, 1, 1000, 100);
+            g.DrawString("zhuzhao", this.Font, brush, 1, 1);*/
+            LinearGradientBrush brush = new LinearGradientBrush(area, Color.White, Color.Red, LinearGradientMode.Horizontal);
+            brush.SetSigmaBellShape(0.5f);
+          
+            g.FillRectangle(brush, 1, 1, 1000, 100);
+            g.DrawString("zhuzhao", this.Font, brush, 1, 1);
+            
+
+        }
         void _tomato_TimeOver(object sender, EventArgs e)
         {
             timer.Stop();
@@ -35,7 +63,7 @@ namespace Training
         private void btnTomatoFocus_Click(object sender, EventArgs e)
         {            
             _tomato.StartFocus();
-            timer.Enabled = true;
+            timer.Enabled = true;             
         }
 
         private void timer_Tick(object sender, EventArgs e)
