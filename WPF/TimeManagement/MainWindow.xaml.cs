@@ -41,7 +41,7 @@ namespace TimeManagement
 
         void timer_Tick(object sender, EventArgs e)
         {            
-            _pomodoro.Tick();
+            _pomodoro.Tick();           
             
             txtRemain.Content = _pomodoro.TimeRemain.ToString("c").Substring(3);
             double unit =btnProgress.Margin.Right / _pomodoro.TimeRemain.TotalSeconds ;
@@ -63,8 +63,8 @@ namespace TimeManagement
 
         void _pomodoro_TimeOver(object sender, EventArgs e)
         {
+            this.Activate();
             timer.Stop();
-
             if (TimeOver != null)
             {
                 TimeOver(this, null);
@@ -100,6 +100,6 @@ namespace TimeManagement
                 timer.Start();
             }
 
-        }
+        }        
     }
 }
