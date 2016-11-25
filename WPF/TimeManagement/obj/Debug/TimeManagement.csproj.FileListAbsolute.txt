@@ -45,7 +45,6 @@ E:\16\TimeManagement\WPF\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.E
 E:\16\TimeManagement\WPF\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
 E:\16\TimeManagement\WPF\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
 E:\16\TimeManagement\WPF\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
-E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement.csprojResolveAssemblyReference.cache
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\MainWindow.baml
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\MainWindow.g.cs
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\App.g.cs

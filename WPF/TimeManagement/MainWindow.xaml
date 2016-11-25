@@ -5,7 +5,13 @@
     <Grid Margin="0,1,0,-1">
 
         <Button Name="btnSwitch" Focusable="False"    HorizontalAlignment="Left" VerticalAlignment="Top" Width="523" Height="70" Background="#FF363325" Click="btnSwitch_Click" Margin="0,-3,0,0" />
-        <Button x:Name="btnProgress" Focusable="False"  Height="71" Margin="0,0,518,247" Background="Blue">
+        <Button x:Name="btnProgress" Focusable="False"  Height="73" Margin="0,0,518,245">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0" >
+                    <GradientStop Color="#FF96D647" Offset="0"/>
+                    <GradientStop Color="#FF6DFD00" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
             <!--<Button.Background>
                 <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
                     <GradientStop Color="LightBlue"  />
