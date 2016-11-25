@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Documents\visual studio 2012\Projects\WpfApplication1\WindowsFormsApplication1\obj\Debug\TaskbarDemo.ChildDocument.resources

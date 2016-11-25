@@ -1,0 +1,37 @@
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\TimeManagement.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement.g.resources
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\TimeManagement.exe
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\TimeManagement.pdb
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement.exe
+c:\users\user\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\TimeManagement.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WpfApplication1\TimeManagement\bin\Debug\TimeManagement.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WpfApplication1\TimeManagement\obj\Debug\TimeManagement.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WpfApplication1\TimeManagement\obj\Debug\TimeManagement.pdb
+E:\16\VS2012Projects\TimeManagement\bin\Debug\TimeManagement.exe.config
+E:\16\VS2012Projects\TimeManagement\bin\Debug\TimeManagement.exe
+E:\16\VS2012Projects\TimeManagement\bin\Debug\TimeManagement.pdb
+E:\16\VS2012Projects\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\16\VS2012Projects\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+E:\16\VS2012Projects\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+E:\16\VS2012Projects\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\16\VS2012Projects\TimeManagement\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+E:\16\VS2012Projects\TimeManagement\obj\Debug\MainWindow.baml
+E:\16\VS2012Projects\TimeManagement\obj\Debug\MainWindow.g.cs
+E:\16\VS2012Projects\TimeManagement\obj\Debug\App.g.cs
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement_MarkupCompile.cache
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement.g.resources
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement.Properties.Resources.resources
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement.csproj.GenerateResource.Cache
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement.exe
+E:\16\VS2012Projects\TimeManagement\obj\Debug\TimeManagement.pdb
