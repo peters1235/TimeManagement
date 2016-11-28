@@ -1,0 +1,1702 @@
+9/21
+8：00	看德哥视频第一集
+
+10.18
+10:00	财经新闻 讲座  书
+
+2015/11/3 12:20:53 吃饭 20分钟
+2015/11/3 12:44:09 倒计时 20分钟
+2015/11/3 14:03:29 志愿者工作 30分钟
+2015/11/3 15:03:08 跟踪客户端登录 30分钟
+
+
+2015/11/3 15:48:22 跟踪客户端登录 30分钟
+2015/11/3 16:56:50 倒计时 0.1分钟
+2015/11/3 17:56:49 跟踪客户端登录 10分钟
+未完成，未写日志
+
+
+使用特性、反射s
+调试异步套接字2015/11/4 9:18:20 套接字收发消息加日志 30分钟
+退钱
+票
+消息
+2015/11/4 13:59:56 套接字收发消息加日志 30分钟im 
+沟通空间化工具设计 
+不从
+2015/11/4 15:10:00 套接字收发消息加日志 30分钟
+基本找到函数了
+
+2015/11/4 15:40:21 套接字收发消息加日志 30分钟
+带参委托
+2015/11/4 16:15:53 套接字收发消息加日志 30分钟
+f  
+又来好些杂事，刚开始调试。
+
+11。5
+联系各分舵负责人 包括 彭老师
+改文章样式
+交互式检查
+2015/11/5 9:17:12 交互式检查bug 40分钟
+杨微沟通设计
+重现问题，新版本编译不过去，
+乒乓球发票)销
+2015/11/5 9:58:02 交互式检查bug，再来20分钟 40分钟
+2015/11/5 9:58:13 交互式检查bug，再来20分钟 20分钟
+快改完了，
+
+2015/11/5 10:21:12 交互式检查bug，再来10分钟 10分钟
+2015/11/5 10:41:07 交互式检查bug，再来10分钟 10分钟
+我去，1个小时了，还得10分钟 。
+2015/11/5 10:51:26 交互式检查bug，再来10分钟 10分钟
+已完成
+
+2015/11/5 11:29:48 测试代码 30分钟
+2015/11/5 11:29:56 测试编码 20分钟
+测试完成 
+
+15:07 测试 5分钟
+
+11.6 
+9:52 图幅间接边 40分钟
+10:12 图幅间接边 20分钟
+10:40 图幅间接边 30分钟
+图幅间接边跟进去
+生僻字检查
+还钱
+
+11.7
+17：00	地址空间
+17:00 5页书 30分钟
+
+
+11.8 
+16：00	联系彭老师
+		发PPT文章
+18：00	PPT成文一篇 ，舵主联系完
+		嘉宾联系了李鹏宇老师
+		
+11.9
+11：00	全文检索服务无法配置，能运行
+14：00	整理PPT文章发布，整理李海翔老师的文章 
+19:15	生僻字检查bug
+		郭瑞功地址服务
+		空间化工具的代码梳理
+		
+11.10  电脑坏6小时
+11.11
+11.12
+11.13 调休
+
+11.16  电脑坏6小时
+
+11.17	
+11：57 重装VS 终于能跑了
+
+11.18 空间化工具完善
+
+11.19
+15：12	空间化工具提交版本
+16：40	进程并行跟踪
+
+11.23
+14:21 空间化工具改bug
+
+11.24
+上午 国情结项 青海业管
+下午 青海9021 排查问题
+	 9019 查资料。
+
+	 
+12.1
+11:00	填完工时 质检任务分配完
+13:46	睡醒
+15:18	点矛问题定位
+16：28	改属性名 反序列化不异常
+18：46	序列化测试，改名称不影响反序列化
+
+12.2
+15:16	青海业管加载升级版质检搞定 
+
+12.3
+变化检测 统计错误  慢  索引
+
+
+12.4
+10：10  变化检测更新版本
+11：05	选择性序列化 未成功 
+15:05	标记成果提速
+
+12.7
+11:00	集成道路网检查
+		集成道路网检查
+
+12.8
+10:12	
+11:32	打酱油
+18:57 	优化方案设计器的界面，减少键击次数，减少弹出的框的数目。
+添加快速孤立线检查规则
+修改等高线过于稀疏无法检查点线高程正确性时的错误描述
+
+12.9
+上午改界面
+下午国地信 天地图
+
+12.10 周四
+9：51	没干活。
+测试捕捉工具
+写处理孤立线代码
+
+12。11  周五
+下午 国地信天地图孤立线
+
+12.12
+命令行启动3D质检
+12.13
+国地信天地图处理孤立线
+
+12.14
+
+15 16 上午 休假
+
+16下午 质检开会 
+
+17 上午 孤立线改
+下午国地信 调效率
+
+12 18
+上午开会  质检调度 青海
+
+
+12.19 12.20 变化检测bug
+
+12.21
+ 开会  更新包提取
+ 
+12/22
+上午开会
+11:56 等待 更新包提取完成 ，相交更慢
+		写取batchid 的存储过程 并测试
+		
+13:25 午睡完
+13：55	看小说
+14：25	没干活
+15：26	写完生成唯一批次号的存储过程，调试
+15:55	写完生成唯一批次号的存储过程，完成调试
+18：24	更新包提取，重新测试缓存 ，快
+
+12.23
+10:03	买票
+10：27	买完票，开工
+11:07	章洁君
+11:42	隋宁宁 并行框架
+13：18	起
+15：17	票完
+16：32	并行框架，整理思路
+20：18	6点去锻炼洗澡吃饭回来继续
+
+
+12.24
+9:02	开工
+10：43	质检开会
+下午外出
+
+12.25
+9：19	开工
+10：07	读参数，准备传递
+11:05	调度端读完参数，建完任务，准备
+11：42	程序编写完，准备调用并行框架，
+12:26	吃饭 配置并行框架上传位置 ，准备算子XMl 上传算子
+13：49	开工	
+14：55	开工 票 排练看一眼
+15：20	配算子XML 调试 问舒方国
+15:50	舒方国调试完，调试算子
+16:50	舒方国调试通过，调试质检算子，整理主、客户端、理程序
+18:10	调试质检算子， 加上授权验证
+18：20	调试质检算子， 补充初始化代码
+
+12.28
+9：20	发票
+10:39	
+11:20	报销
+11:28	调试进程起不来， ADF不同，
+11：43	待提交：引用的ADF Mis.Utility ,各个工程
+13:43	开工
+13：52	
+14：23	Mis.FrameWork 不兼容
+15：30 ~ 17：20 讨论信息化管理接口
+
+12.29	
+9：27	输出xml
+10：35	结果输出XML 试验完成
+11：26	天地图代码丢失，找高贤要代码反向工程，发票搞定 
+
+下午 彩排
+
+12.30
+上午彩排  下午晚会
+
+12.31
+10：21	方案设计器无法启动跟踪
+11：00	License。log没有，XP版本替换Win7还没结果
+11:42	发票、电池报销完。质检锁有问题，更新授权验证方式
+15:18	更新授权验证方式
+16:05	混淆3D9.3版，读入XML
+16:53	领奖 武汉包裹
+18:50	整理工时
+20：43	石磊寒
+
+1.4
+8:56	开工
+9：20	折叠椅，谁都不送，任务路径用程序目录底下的，看了会CodeProject
+9：57	聚宝电话，上洗手间
+10：36	慌出，任务过滤，连接输出文件夹，创建文件夹，上传 日志 error.mdb 结果.mdb
+10:51	服务器端，确认XML格式，晓雨不在。
+11：10	客户端，
+11：20	检查项编码
+13：41	午睡，熔断了，我去。
+15:20	讨论控制方案，讨论概查结论
+15：50	控制方案想明白了，准备写
+16:20	控制方案理清 方案 -控制方案-质量元素配置文件 的对应关系
+16：50	准备控制方案到底执行与否
+17:38	上传检查结果
+
+1.5
+9.19	RTX密码为空。
+11：10	开会   质检结论更新、审核评价抽象
+11:50	重新布置并行环境 
+13：53	开工
+15:42	并行改造，写完
+16：15	陕西方案设计器打不开问题解决
+17：28	填完工时，破注意力记录
+18:30	例会讨论 半小时
+
+1.6
+9:50	注意力全局，开工
+11:28	整理审核评价代码
+14：31	财经新闻知识
+15：52	跟踪审核评价代码
+16：24	审核评价跟完，设计文档看完，没思路。
+17：07	慢丽讨论
+
+1.7		
+10:05	坑死爹了。
+10:20	好好总结。
+11：53	
+14:21	教欣欣写代码
+14：50	并行框架改造测试
+16：01	提交代码，准备测试
+16:20	寄快递，测试控制方案
+17：50	舒方国讨论返回结果
+18:
+
+1.8
+9:50	更新并行框架，开始新的测试，明确只看收盘价的依据
+10:48	并行时提示数据被锁，
+11：50	欣欣代码，修改
+16:14	买书，调试控制方案
+
+1.11
+9:19	写并行框架对质检性能的提升
+10：22	写完文档，青海业管有问题
+10：49	中通寄不出去，
+11:46	
+14:11	电话下单，看了点重构
+18:20	上传完成多机并行，开始测试
+
+1.12
+11:15	审核评价讨论，基于质量模型 改造 。 碧屿机器 启动不来。
+14：00	充卡 邓叔叔  有把握再动
+15：20	碧屿那边并行框架起来，重构到第5章，学习单元测试
+15：50	单元测试Demo往下， 碧屿基本弄懂
+
+18:05	重构 单元测试
+
+1.13
+9:05	重构，对照质量评价，看重构
+14：21	上午碧屿
+15：20	重构多机并行算子
+
+1.14
+11:00	并行框架跟踪，审核评价，重构
+16:34	
+19:19	没有在自己机器上用SVN上的版本进行完整测试，就提交了。
+
+1.15
+9:20	开工
+上午	跟踪审核评价代码
+
+下午	调休
+
+1.16
+10：52	订好书，开工
+15:50	重构看了会又。
+
+
+1.18
+9:20	审核评价开工"18316.qmdl" 
+9：50	思维导图，评价
+10：49	看了会书，好书。看设计器代码
+14：15	开工
+14：53	全覆盖面缝隙检查
+15：20	跟踪全覆盖面缝隙检查
+
+1.19 20 21  国地信BOUA5改数据。
+
+1.22
+15：20	评价树 重构
+15：50	碧屿讨论
+
+1.23
+14:12	上午 Dp CLR via C#
+		开工
+20：50	添加质量评价项cmbQualityType
+
+1.24
+9:57	
+
+1.25
+9:20	开会
+9：50	做测试数据，测试
+10：20	模型设计 存疑
+10：50	跟踪评价项，修复正确性问题
+14:22	准备外部调试
+14：50	检查项对不上
+18:20	自己测试外部测试结果
+20：50	独立审核评价自测通过
+
+1.26
+9:20	半小时单元测试，瞌睡，开工
+11：52	卫超交接
+16:22	放弃2.0 
+21:30	9.3工具
+
+1.27
+14：20	改审核评价评分不为最小值的bug，准备提交测试
+17：24	完成版本整理工作
+
+1.28
+
+11:10	买书 以句子为单位阅读 刷了会网页 干活
+14：20	整理S笔记，用禅道改bug
+15：26	整理S笔记，改了一个bug
+
+1.29
+9:50	整理工时
+16：28	重新发
+
+2.19
+并行框架问题
+	重现
+审核评价原有bug，定位，重现
+禅道bug
+
+9:21	开工
+10:20	瞎逛没干活
+10:50	重头配
+11:20	还在配
+11:50	完全重头配
+14:23	
+
+2.22
+10:50	新疆启动会
+11:51	并行质检慢，出现无用日志
+
+2.23
+并行质检  栅格数据检查问题 salk
+
+2.24
+审核评价 退出后  崩溃
+栅格数据检查 
+杨花敬问题 暂不处理
+统计问题
+
+10：20	快速统计 文档 
+16：22	 
+
+2.25
+9.3
+10:19	IOC 单元测试 测试控件
+10：50	算账
+11：24	股 基选
+
+2.26
+审核评价 显示分
+青海信息化  审核评价不允许编辑
+3D版本 升级到10.2
+
+2.29
+14:50	上午例会，中午聊职，下午做快速统计
+17：50	
+
+3.2
+并行调度
+10.2版本
+快速统计
+
+10:48	
+13:50
+
+16:16	并行框架测试完成 
+		对比分析看了下文档
+		工时系统可以外部访问了
+		交出去了10.2
+		
+		
+3.3
+石骞
+2.19	并行检查完任务后，添加日志。
+	
+2.22	修改删除 拷贝的检查数据的方法
+	//抛出ArgumentException异常的话，表明当前拓扑中没有对应的要素类，不需要再记录异常信息
+2.23	成功复制数据的话不写日志，减少无用信息
+2.24
+2.25
+
+2.26	快速统计
+2.29	快速统计
+3.1 	请假
+3.2	多机并行框架测试并更新版本bug
+3.3	快速统计
+
+
+17：54	从上往下写
+
+3.4
+17:20	调用管理系统代码写快速统计
+		调并行调度的问题
+		
+		
+3.30
+
+15:50	OpenLayers 开搞
+return
+
+3.31
+9:09	JS 对象学习to
+10：20	不挂市价单
+
+4.1
+9：50	变化检测可以调试了，加载上了程序集，准备做图幅检测功能
+
+11：08	取图层还有问题
+17:50	开始检测， 用mdb替换Oracle往下
+
+4.5
+	变化检测插件 快写完了，出了个奇怪的问题ym
+
+4.6
+17：56 变化检测 升级 10.2
+
+4.7
+15:51	上午研究资源文件 下午强行加载mscorlib.resources.dll 
+
+4.8
+JS
+
+升级
+
+4.11
+9：51	下载MindManager  哲学的故事是好书 股票总结追高原因
+		失败后在想着进步的机会而不是懊恼。
+		打球找到视频
+		每半小时，问自己，思维还敏捷不？
+10：20	Sublime package control
+10；50	翻墙软件
+12：50	
+15：21	敏捷、清晰？差不多。
+16：20	Sharp？ 讨论变化检测
+16：57	Sharp？变化检测取不到图幅的bug，第一次查不出东西的bug
+17：23	Sharp？变化检测还有好多东西要改啊。。给李雪送钥匙
+18：20	Sharp？烦躁
+19：20	Sharp？no
+19：50	
+22：25	Sharp？不再使用GUID，使用临时表空间算GP，更新图幅表达方式，计算其它类型y
+
+4.12
+9:50	Sharp？ 喝水上个厕所。每天背一点孙子兵法，在纸上背一遍，在博客上敲一遍。
+10：50	Sharp？ 整理简版的开发手册
+15：53	Sharp？
+16：20	Sharp？ 变化检测又跑不起来了。修改了日志路径。再试下，问飞哥。
+16：39	DEV引用不对，改DEV引用 。
+17：20	引用改了， 多余的工程注掉了，跑不起来。
+18：20	Sharp？其它的类型没错
+19：20	Sharp？
+
+4.13
+10：45	Sharp?	变化检测配置图层名称文件。154有了权限。
+14：24	Sharp？ 整理自己系统的买点
+15：24	Sharp？ 逐行日志跟踪不显示问题，不知道怎么跳出来看。
+16:20	Sharp?	洗个脸，喝口水，换种方式读Access里的数据
+16：47	Sharp？ 变化检测提交版本
+
+4.14
+9：50	Sharp？
+10：20	Sharp？ 讨论
+10：50	Sharp？ 喝水，上厕所，洗手。吐槽新Kindle
+11：33	Sharp?	讨论代码审查我定时间
+
+14：24	Sharp？ 
+15：04	Sharp？发一篇日志。
+15：25	Sharp？再发一篇日志。
+17：50	Sharp？开会，洗手，洗脸
+
+4.15
+9:51	Sharp?
+10:20	Sharp?
+10:50	Sharp? 隋宁宁快速统计
+13：36	Shartp? 
+13:50	Sharp?	JS DOM
+14:20h	Sharp?	
+15:20	Sharp？ JSDOMd
+17:20	Sharp?	抬高电脑 ，正则表达式。
+
+4.18
+9:21	Sharp?
+10:20	Sharp?入宁波港，快速统计有bug要修复
+11：22	Sharp？坐直脖子不那么酸，变化检测支持组合图层，快速统计允许长方案，收到 《实现模式》
+14：52	Sharp？入天坛生物，删快速统计多余代码
+15：50	Sharp？快速统计问姬显示表
+16：20	Sharp？快速统计显示表，重构UCLayerSelector控件
+17：19	Sharp？快速统计显示表，完成，正测试
+18：00	Sharp？快速统计提交，等冯华，要测试数据，确认设计 
+
+4.19
+10:20	Sharp? 查孙子兵法
+11：20	Sharp？上传资料，JavaScript高级程序设计 好书。。
+
+15：48	Sharp？快速统计计算椭球面积，支持导出
+16：20	Sharp？整理高级程序设计中对象一章
+17：20	
+Sharp？
+
+4.20
+9:50	Sharp? 快捷方式
+10：55	Sharp?	继承
+13：56	Sharp？ 
+14：51	Sharp？ 考题  
+
+4.21
+9:09	Sharp?闭包
+10：10	Sharp？信用卡月均1800，债券与利率负相关
+14：54	Sharp？
+15:52	Sharp? 找票
+16：20	Sharp？电子手写板
+
+17：20	Sharp？ BOM
+
+4.22
+10:14	Sharp? 破产重组懂了。票好。
+10：55	Sharp？
+13:54	Sharp?	政治 科技 影响 经济
+16：32	Sharp？xg 
+16：54	Sharp?	刷了知乎。看了点
+
+4.25
+9:11	Sharp? 
+9:45	Sharp? 教张影
+10：27	Sharp？没起来
+10：54	Sharp? 例子做了一个。
+11：42	Sharp？快速统计做完了
+11:54	Sharp? 
+18:20	Sharp?	张影  E8
+
+4.26
+10:50	Sharp?	查了会SVG  WebGL Closure
+8ach
+18:50	Sharp?	
+
+4.27	
+9:21	Sharp?	只看懂， 不改
+9：50	Sharp？	只看，一个示例单独一个文件，只做笔记 ， 
+10:50	Sharp?  23.
+13:20	Sharp?	开搞
+13:50	Sharp?	25
+14:20	Sharp?	27
+15:04	Sharp? 	28
+15:20	Sharp?  28
+16:20	Sharp?	30
+16:50	Sharp? 	30
+
+4.28
+11:50	Sharp?	32
+17:04	Sharp?	36
+17:51	Sharp?	39
+
+4.29
+10:21	Sharp?	46
+10:50	Sharp?	48
+11:20	Sharp?	49
+11:50	Sharp?	51
+13:50	Sharp In?	 
+16:25	Sharp In? 55
+
+5.3
+14:20	Sharp?	魏则西
+16：20	Sharp？In？	83
+
+5.4
+14:57	Sharp?	魏则西 fs 
+
+5.5
+12：12	Sharp？	马老师讲课	
+15：20	Sharp？	Beginner guide
+16:20	Sharp?	object
+17:25	Sharp?	76
+17:50	Sharp?	82
+20:18	Sharp?	90
+
+5.6
+3+28\]oer
+9:20	Sharp?	120
+15:36	Sharp?	又开会，又睡觉，中午吃饭。以后出门带200到300现金。
+16:20	Sharp?	123
+17:31	Sharp?	WMTS WMS要求
+
+
+5.9
+10:20	Sharp?	web 服务器
+14:14	Sharp?	没看懂。
+15：20	Sharp？	Web页面跑起来了，继续跑例子。
+15:53	Sharp?	106
+16:20	Sharp?	112
+16:50	Sharp?	张影培训考核表  115
+17：20	Sharp?
+17:50	Sharp?	122
+
+5.10
+9:13	Sharp?	
+9:20	Sharp?	新闻
+9：50	Sharp？	佳璇GIS材料
+10:35	Sharp?	143
+10:52	Sharp?	例子过了一遍 Beginner  140 
+11:20	Sharp?	142
+15:20	Sharp?  154
+15:50	Sharp?	162
+16:20	Sharp?	167 
+17:20	Sharp?	178
+17:50	Sharp?	193
+
+5.11
+10:20	Sharp?	票204
+10:50	Sharp?	208
+11:50	Sharp?	222wh ip
+14:20	Sharp?	No240
+
+15:20	Sharp?	249 
+15:56	Sharp?	
+21:07	Sharp?	268
+
+5.12
+10:59	Sharp?	马总讨论重点
+11:20	Sharp?	
+12:19	Sharp?	
+14:50	356
+16:50	Sharp?	整理例题笔记 
+18：34	Sharp？	12
+i 
+ 
+5.13
+10:41	Sharp?	WMTS
+14:50	Sharp?	下无可下。玩WMTS
+15：20	Sharp？	继续WMTS
+15：50	Sharp？	Rest
+16:20	Sharp?	博士论文 ，写得真好
+17:01	Sharp?	论文看累了，换WMTS
+
+5.16
+10:20	Sharp?	整理
+10:50	Sharp?	整理WMTS
+11:50	Sharp?	 
+13:50	Sharp?	软件自带分析功能
+16:14	Sharp?	找示例开 WMTS
+16:50	Sharp?	整合示例
+
+6.29
+16:38	Sharp?	
+16:50	Shapr?	复习OL3笔记 
+
+6.30
+11:20	Sharp?	整理OL3笔记 
+11:50	Sharp?	整理OL3笔记 
+13:50	Sharp?	整理OL3笔记  下载电子书
+14:22	Sharp?	
+14:50	Sharp?	机械键盘作礼物
+15：20	Sharp？ 整理OL3笔记  
+17:26	Sharp?	
+
+7.1
+9:20	Sharp?	整理上课笔记
+10:20	Sharp?	49 
+10:50	Sharp?	54
+14：20	Sharp？	58
+14:52	Sharp?	地图渲染
+15：56	Sharp？ 事件
+16:20	Sharp?	工时
+加班6.  9 10 12（通宵） 18 19 
+17：20	Sharp？	登记完工时
+17:50	Shapr?  渲染
+18：20	Sharp？	约课 
+
+7.4
+9:07 	Sharp?	   开工
+9：50	Sharp？    前置看好的票，不成功
+11：20	Sharp？    整理笔记
+11:50	Sharp?     上课笔记
+14：50	Sharp？    看不准 85
+15：30	Sharp？    
+15：50	Sharp？    整理笔记
+16:20	Sharp?    回张明电话
+16:59	Sharp?	退键盘
+17:50	Sharp?	找键盘
+
+7.5
+10:04	Sharp?	新的一天，加油。
+10:25	Sharp?	换货
+11：51	Sharp？	140
+14：40	Sharp？	146
+762952802087
+14：50	Sharp？	网络通信
+15:20	Sharp?	CSS
+15:50	Sharp?	MAVEN
+16:20	Sharp?	困
+17：09	Sharp？	地震应用
+17:27	Sharp?	Word输出
+
+7.6
+10:06	Sharp?	MAVEN
+10:20	Sharp
+10:50	Sharp?	键盘到了
+14：08	Sharp？	Maven继续
+14:20	Sharp?	手工Maven
+14:50	Sharp?	Maven
+15:21	Sharp?	Maven  54
+16:20	Sharp?	网络 ，设计模式的书
+ 
+7.7
+9:22	Sharp?	MAVEN 86
+10:57	Sharp?	MAVEN 102
+11:20	Sharp?	Hadoop 技术解释 
+11:50	Sharp?	MAVEN 109
+14:05	Sharp?	maven 115
+14:20	Sharp?	maven 115
+14:50	Sharp?	JAR WAR
+15:23	Sharp?	飘
+16：20	Sharp？	Web容器  Servlet等 
+17:50	Sharp?	Git
+18:43	Sharp?	Git 
+20:20	Sharp?	Git
+20:51	Sharp?	Git 
+21:20	Sharp?	Git
+
+7.11
+14:15	Sharp?  喻静敏简历
+15:20	Sharp?	git-branch
+16:20	Sharp?	廖雪峰的先不看了
+16：50	Sharp？	装SpatialHadoop
+17：20	Sharp？	Sudo
+17:50	Sharp?	linux
+
+7.12
+9:41	Sharp?	Linux
+10:20	Sharp?	网络
+10:50	Sharp?	网络层太搞了
+11：22	Sharp？	网络连接
+12:50	Sharp?	网络书
+13:50	Sharp?	IP协议
+15：20	Sharp？	IP协议
+15:50	Sharp?	协议基本看完了nfi
+18:56	Sharp?	网络
+20:35	Sharp?	网络还是没懂
+
+7.13
+9:05	Sharp?	
+9:50	Sharp?	HadoopSpatial
+13:20	Sharp?	SpatialHadoop 编译ping 
+13:50	Sharp?	起另一个虚拟机
+15:51	Sharp?	干活
+17:20	Sharp?	Hadoop fs
+
+7.14
+10:20	Sharp?	Hadoop In Action 50
+10:50	Sharp?	54
+11:20	Sharp?	58
+13:24	Sharp?	62
+14:37	Sharp?	敲代码
+16:30	Sharp?	虚拟机重导
+16:50	Sharp?	虚拟机重导
+
+7.18
+10:12	Sharp?	写第一个Hadoop程序
+14:20	Sharp?	程序写完，没有上传数据到HDFS，上传过程中空间不够
+C:\Users\geoway\VirtualBox VMs\SpatialHadoop\spatialhadoop-f3745a-disk1.vmdk
+
+7.20
+9:24	Sharp?	Hadoop In Action 
+9:58	Sharp?	入票
+10：25	Sharp？ 资金
+10:50	Sharp?	小妞开户
+11:50	Sharp?	整理hadoop结构 
+13：30	Sharp？ 
+14：20	Sharp？ 写新版本的hadoop
+14：57	Sharp？ 写完新版本的hadoop
+15:42	Sharp?	Stream
+16:50	Sharp?	
+
+7.26
+9:3		Sharp?	乒乓球统计
+13：20	Sharp？	Combiner
+15:26	Sharp?	
+17:55	Sharp?	下载数据
+
+7.27
+15:05	Sharp?	下了测试数据，看书
+15:20	Sharp?	数据流
+
+7.28
+14:51	Sharp?	上午讨论，下午干活。
+15:21	Sharp?	整理笔d
+15:50	Sharp?	整理HDFS笔记
+16：20	Sharp？	整理HDFS笔记
+17:15	Sharp?	中文输入法
+17:50	Sharp?	73cd
+
+7.29
+9:50	Sharp?	写代码
+11:27	Sharp?	Eclipse 真难用 
+17:49	Sharp?	写文件
+
+7.29
+20:21	Sharp?	Yarn
+
+8.1
+10:50	Sharp?	迅速地过一遍书
+15:56	Sharp?	和马总沟通，只看和代码相关的内容，试着读hadoop
+
+8.2
+10:20	Sharp?	LAMP 基本有了 ，继续 hadoop 编程相关知识 
+13:21	Sharp?	PHP
+13:50	Sharp?	
+15:20	Sharp?	maven
+15:50	Sharp?	第6章
+20:50	sharp?	yarn 100 
+
+8.3
+9:20	Sharp?	第6章	
+11：01	Sharp？	Maven 编过了Hadoop程序
+11：50	Sharp?	
+13:37	Sharp?	
+16:20	Sharp？	退香水
+
+8.4
+10:43	Sharp?	179
+11:49	Sharp?	200
+13:20	Sharp?	203
+16:36	Sharp?	226qnr
+6 7  8章 过一遍
+
+8.5
+6 7 8 章 画图 重温7
+
+8.8
+9：15	LampServer下载，安装
+9:15	sharp?	
+13:58	Sharp?	Wamp 能连数据库gs
+17:20	Sharp?	回头看IO 第5章
+
+8.9
+11：21	Sharp？	换回Eclips
+15:50	Sharp?	15为基线 买好票 
+
+8.10
+10:20	Sharp?	健身卡、快递、序列化
+10:50	Sharp?	Maven   Eclipse 不同的引用 
+11:20	Sharp?	Maven   实战
+14:20	Sharp?	Maven	Maven实战
+14:50	Sharp?	
+15:20	Sharp?	maven 	仓库搜索服务 
+16：20	Sharp？	
+17：20	Sharp？
+
+8.11
+9:12	Sharp?	开工
+9:50	Sharp?	序列化测
+15:20	Sharp?	连上集群跑 ，继续IO
+
+8.12
+9:24	Sharp?	InputFormat
+11:20	Sharp?	Fund IO
+14:50	Sharp?	
+
+8.15
+9:20	Sharp?	正念
+10:05	Sharp?	心念纷纭，无关真我
+11:50	Sharp?	泡沫轴， 股票突涨
+16：50	Sharp？	忙的时候清仓，只玩基金。Hadoop 序列化
+
+8.16
+9:50	Sharp?	送花
+11:21	Sharp?	多文件输出
+11:51	Sharp?	Counter
+14:09	Sharp?	写信
+14：45	Sharp？	打印Counter
+15：30	Sharp?	在集群上跑
+16:26	Sharp?	写完信，打印日志 Counter 太麻烦
+16:50	Sharp?		
+18:20	Sharp?	排序 Counter
+
+8.17
+9:15	Sharp?	算账 
+9:50	Sharp?	宝宝
+10:33	Sharp?	宝宝
+11：27	Sharp?	速读安装
+12：20	Sharp？	吃饭 
+15:54	Sharp?	Hadoop 配置
+
+8.18
+9：55	Sharp？	开工
+10:20	Sharp?	Admin Hadoop
+14:50	sharp?	Meditation 
+15:21	Sharp?	白噪声
+17:02	Sharp?	张大爷 轮椅
+17:29	Sharp?	前端  表格
+
+8.19
+10:20	Sharp?	tiancui
+10:50	Sharp?	tiancui
+14:23	Sharp?	保存文章
+14:56	Sharp?	Java[i
+
+8.22
+10:25	Sharp?	字符串 297
+10:50	Sharp?	Sublime
+11:50	Sharp?	Sublimet
+17:05	Sharp?	
+17:50	Sharp?	SpatialHadoop
+
+8.23
+9:50	Sharp?	SHadoop
+10:24	Sharp?	困
+10:50	Sharp?	GoogleMap
+16:50	Sharp?	文章
+
+8.24
+9:12	Sharp?	开工
+9:50	Sharp?	思维导图 论文整理
+10:20	Sharp?	思维导图 论文整理
+10:50	Sharp?	交易系统整理
+11:20	Sharp?	健身用手机记
+14:22	Sharp?	交易系统完善 
+14:50	Sharp?	Shadoop
+15:54	Sharp?	晕掉了，张大爷的电脑 。sov 
+
+8.25
+9:53	Sharp?	训练营打脸
+10:20	Sharp?	股票清仓
+10:50	Sharp?	整理邮件
+11:20	Sharp?	学习源代码
+11:50	Sharp?	GridPartiioner
+14:04	Sharp?	开工
+14:20	Sharp?	分开源码笔记和问题
+14:50	Sharp?	继续 
+16:12	Sharp?	GridPartiioner
+17:20	Sharp?	报账整理  InputFormat
+17:50	Sharp?	InputFormat 通了
+清仓，看源码
+
+8.26
+9:07	Sharp?	开工
+9：30	Sharp?	新闻
+9:50	sharp?	RecordReader
+10:20	Sharp?	卡住
+11：02	Sharp?	马总讨论，先不深究核心的东西，先显示出来。
+11:51	Sharp?	可视化 论文再过一遍e 
+11:51	Sharp?	可视化 论文再过一遍
+13:50	Sharp?	他强任他强，清风拂山岗。
+				他横由他横，明月照大江。
+				他自狠来他自恶，
+				我自一口真气足。
+14：48	Sharp？	乒乓
+15:20	Sharp?	空间算法
+15:50	Sharp?	单张图片算法比较 :
+16:20	Sharp?	多层瓦片
+16:50	Sharp?	知乎歇了会     
+17:50	Sharp?	金字塔切分，好麻烦  
+
+8.29
+9:47	Sharp?	菲律宾
+10:50	Sharp?	微信公众号测试
+11:20	Sharp?	Hadoop Viz 源代码
+11:50	Sharp?	分区算法 ，没看明白
+13:09	Sharp?	午睡
+13:50	Sharp?	分区有眉目了
+14:50	Sharp?	可视化剩下代码太多，没拎出结构
+15:20	Sharp?	官网 文档
+16:38	Sharp?	虚拟机里搞起
+17:50	Sharp?	上传道路数据 
+18:20	Sharp?	扩容 分区
+19:29
+
+8.30
+9:50	Sharp?	开搞SpatialHadoop
+10:20	Sharp?	
+11:30	Sharp?	删 资料
+11:50	Sharp?	删 资料
+13:14	Sharp?	删得差不多了，看了会诛仙。
+13:53	Sharp?	难过	
+14:23	Sharp?	
+15：50	Sharp？	找包的位置
+16:56	Sharp?	
+
+
+17:50	Sharp?	读文章
+
+8.31
+8:58	Sharp?
+10:20	Sharp	订好酒店 
+11:20	Sharp?	maven 下源码
+12:20	Sharp?	好几种方式，终于有了
+15:13：	Sharp?	干活
+15:50	Sharp?	建索引再来一遍
+16:22	Sharp?	螃蟹，看饿了。
+16:50	Sharp?	记日志
+
+9.1
+10:08	Sharp?	开工
+10:50	Sharp?	配置
+11:20	Sharp?	集群配置，终于能看懂了
+12:50	Sharp?	知乎刷疯了
+14：38	Sharp？	诛仙，干活
+14:50	Shargbp?	看文档，突然能看懂了，先过一遍真好啊。
+15:23	Sharp?	集群配置过了一遍，一会诛仙，撸代码
+15：50	Sharp？	日志
+16:50	Sharp?	本地处理
+
+9.2
+10:05	Sharp?	改环境变量，看索引日志
+10:52	Sharp?	调试代码
+11:24	Sharp?	ClassLoader
+16:08	Sharp?	InputFormat
+16:20	Sharp?	FileStatus
+16:50	Sharp?	FileInputFormat
+17;20	Sharp?	GetSplits
+
+
+9.5
+8:58	没迟到
+9:50	Sharp?	RecordReader
+10:20	Sharp?	
+10:50	Sharp	RecordReader
+11:50	Sharp?	继续往下读代码
+14:09	Sharp?
+14:25	Sharp?	干活
+14:50	Sharp?	读行
+15:20	Sharp?	睡着
+15:50	Sharp?	串着撸代码
+16:20 	Sharp?	整理
+16:50	Sharp?	还没整明白
+17:20	Sharp?	快明白了
+18:02	Sharp?	基本明白，看回索引
+19:08	Sharp?	游戏
+
+9.6
+9:08	Sharp？	开工，Java类型信息
+9:20	Sharp?	类型信息， 笔记
+10:03	Sharp?	库里  骄傲 
+10:20	Sharp?	类加载 
+10:50	Sharp?	
+11:20	Sharp?	采样代码
+14:04	Sharp?	换完拍子
+14:20	Sharp? 	测试采样
+14:50	Sharp?	测试完成，采样懂了
+15:20	Sharp?	采样总结 ，并继续弄索引 
+15:57	Sharp?	回索引了
+16:20	Sharp?	索引似乎也看完了
+17:08	Sharp?	全局索引什么时候生成的？
+17：09	Sharp？	重点还是回到矢量金字塔
+20:52	Sharp?	基金业绩，玩，吃饭
+
+9.7
+没有迟到
+9:25	Sharp?	开工
+10:00	Sharp?	lOF
+10:20	Sharp?	单层、Local Plot
+10:50	Sharp?	单层、Local Plot
+11:20	Sharp?	单层、MapReduce Plot
+11:50	Sharp?	Sublime 带缩进粘贴 
+13:12	Sharp?	午睡起， 干活
+13：50	Sharp？ 玩
+14:24	Sharp?	找电影
+14:50	Sharp?	金字塔测试挂了，少空间
+
+9.8
+11:20	Sharp?	弄好机器
+11:50	Sharp?	看代码
+14:06	Sharp?	发球
+15：20	Sharp?	发球
+15:51	Sharp?	看完发球，继续代码
+16:30	Sharp?	PlatPartition 基本明白
+18:02	Sharp?	金字塔
+19:20	Sharp?	玩，吃饭
+19:50	Sharp?	金字塔，合在一起的，不好懂
+20:20	Sharp?	金字塔有点感觉了
+
+9.9
+9:40	Sharp?	龙妹 LOF
+10:22	Sharp?	买完
+11:02	Sharp?	交易并记录
+11:20	Sharp?	终于开始干活了
+15:56	Sharp?	风油精 发球
+16:43	Sharp?	矢量切片，有进展了
+17:29	Sharp?	马总扩容
+18:53	Sharp?	马总电脑 调完，我的鼠标坏了。
+19:20	Sharp?	吃完饭，继续
+
+9.12
+11:50	Sharp?	扩容完成
+13:48	Sharp?	比赛，电脑重装，小进
+14:20	Sharp?	HDFS 配置
+15:51	Sharp?	解析画图过程
+16:20	Sharp?	Shape参数的使用
+
+9.13
+9:57	Sharp?	困 ，DOM
+10:22	Sharp?	事件
+11:03	Sharp?	FOF
+11:20	Sharp?	事件基本过完，回看OL代码
+16:20	Sharp?	DOM明白了
+16:52	Sharp?	HDFS扩容，继续跑，看OL
+19:34	Sharp?	HDFS重置，与马总定策略
+19:50	Sharp?	拷贝道路数据，重新来
+22:29	Sharp?	张继科 拉球用大臂 离线GoogleMap
+
+9.14
+9:25	Sharp?	马总展示
+9:50	Sharp?	闲逛
+10:20	Sharp?	OL代码结构 
+11:20	Sharp?	OL代码结构继续理，
+11:50	Sharp?	继续理结构 
+14:04	Sharp?	午睡 ，看球，学到快腻时正是要突破之时
+14:27	Sharp?	报账
+16:00	Sharp?	
+
+9.18
+14:04	Sharp?	财经 写Serverlet
+14:20	Sharp?	Java 环境问题
+15:05	Sharp?	Servlet第一个静态的
+16:58	Sharp?	Servlet
+17:49	Sharp?	马总讨论 秒Servlet
+
+9.19
+9:24	Sharp?	论文大有可看，Servlet基础
+9:55	Sharp?	Servlet真有意思 
+13:37	Sharp?	办业务，开卡
+13:50	Sharp?	Union UUnion比较
+14:20	Sharp?	Union
+15:11	Sharp?	睡了会，Union
+15:22	Sharp?	马龙训练视频 
+15:50	Sharp?	杨影，，Union
+16:33	Sharp?	LeetCode
+16:50	Sharp?	Union 好多 内容
+17:32	Sharp?	Union有了个大概，不继续往下了
+17:50	Sharp?	整理Pyramid参数
+18:20	Sharp?	设置阈值失败
+18:50	Sharp?	设置阈值失败
+20:24	Sharp?	看原来的动作，没看明白
+
+9.20
+9:40	Sharp?	干活
+9:50	Sharp?	整理Gplot参数 
+10:20	Sharp?	整理Gplot参数 
+10:50	Sharp?	文库整理
+11:29	Sharp?	二叉查找树
+14:07	Sharp?	二叉查找树
+17：15	Sharp？	好费劲的树。。
+18:25	Sharp?	屁股 的问题？
+18:50	Sharp?	
+20:36	Sharp?	撸代码hadoop
+20:50	Sharp?	撸代码hadoop
+21:31	Sharp?	撸代码hadoop
+21:50	Sharp?	Thinking in Java
+
+9.21
+10:20	Sharp?	Thinking In Java 20页，1个半小时
+10:50	Sharp?	RecordReader
+11:33	Sharp?	RecordReader
+11:33	Sharp?	RecordReader
+12:20	Sharp?	s
+13:29	Sharp?	午睡完干活
+13:50	Sharp?	
+14:15	Sharp?	张大爷电脑 
+14:50	Sharp?	Reader 读完了
+15:23	Sharp?	去重好像明白了
+15:50	Sharp?	
+16:20	Sharp?	Mapper的迭代快明白了
+16:30	Sharp?	Mapper的一整块迭代 明白了
+16:50	Sharp?	SHAHED
+
+9.22
+9:26	Sharp?	SHAHED
+9:56	Sharp?	SHAHED
+10:20	Sharp?	赫夫曼树
+10;55	Sharp?	
+14:56	Sharp?	张兆阳讨论
+16：21	Sharp？	
+17：22	Sharp？	讨论，下载Modis数据
+17:50	Sharp?
+
+9.23
+15:15	Sharp?	马总 兆阳 讨论
+16:43	Sharp?	TARREG
+16:50	Sharp?	TARREG
+17:20	Sharp?	撸论文
+17:50	Sharp?	SHAHED 
+
+9.26
+VR C++ 
+8：52	Sharp？	开工
+9：50	Sharp?	HDF格式
+10:20	Sharp?	HDF格式
+10:50	Sharp?	HDF格式
+11;20	Sharp?	HDF格式弄懂，看代码
+14:34	Sharp?	
+LST_Night_1km  
+Night_view_time 
+Night_view_angl
+Emis_31 Clear_day_cov Emis_32
+/MODAPSops2/archive/f46/running/AM1M_L4/19367536/MOD11A1.1.A200
+Clear_night_cov
+Data Fields
+Grid Attributes
+YDim:MODIS_Grid_Daily_1km_LST
+XDim:MODIS_Grid_Daily_1km_LST
+LST_Day_1km
+MODIS_Grid_Daily_1km_LST
+QC_Day
+Day_view_time
+Day_view_angl
+
+9.27
+9:34	开工
+9:50	Sharp?	Java IO
+10:20	Sharp?	Java IO
+11:50	Sharp?	SHAHED论文
+13:10	Sharp?	午睡
+13:50	Sharp?	乒乓 刷网页
+14:20	
+14:49	Sharp?	PG汪洋介绍tc y
+15:20	Sharp?	
+17:20	Sharp?	马总，国内研究情况。SHAHED，空间数据库课件
+17:50	Sharp?	Z序 四叉树
+18:20	Sharp?	论文刷
+19:02	Sharp?	看球赛
+
+9:28	
+10:12	Sharp?	Z值+四叉树
+10:50	Sharp?	Shahed索引
+16:05	Sharp?	SHAHED结构弄懂，起VIZ
+16:20	Sharp?	旧版的HadoopVIZ
+16:50	Sharp?	
+
+9.29
+9:24	Sharp?	旧版的HadoopVIZ
+9:50	Sharp?	旧版的HadoopVIZ 起来
+10:25	Sharp?	SHAHED整理
+11:48	Sharp?	SHAHED讨论
+13:49	Sharp?	午睡
+14:29	Sharp?	财新
+14:50	Sharp?	旧版的HadoopVIZ
+15:20	Sharp?	旧版的HadoopVIZ
+15:50	Sharp?	旧版的HadoopVIZ
+17:30	Sharp?	旧版的HadoopVIZ 跑起来了 
+18:20	Sharp? 	
+
+9.30	
+9.55	Sharp?	算账
+
+10.8
+13:56	Sharp?	
+15:13	Sharp?	小伙工作 肖忠野 
+15:50	Sharp?	张大爷电脑
+16:47	Sharp?	记生日
+17:20	Sharp?	撸代码
+17:56	Sharp?	IndexOutputFormat代码
+
+10.9
+9:40	Sharp?	微信讲师
+9:50	Sharp?	R树
+11:20	Sharp?	InputFormat
+11:50	Sharp?	IndexOutputFormat代码
+13:15	Sharp?	午睡
+13:50	Sharp?	网络 暴力 浪费时间
+14:20	Sharp?	网络暴力，重新看索引 
+15:10	Sharp?	内部类
+15:50	Sharp?	R树分区
+16:36	Sharp?	网约车
+16:58	Sharp?	R树分区，分得每个区中的要素数目相等的做法知道了
+17:20	Sharp?	Hadoop Guide
+17:50	Sharp?	球
+18:20	Sharp?	SpatialInputFormat
+
+10.10
+9:37	Sharp?	文章
+9:50	Sharp?	
+10:25	Sharp?	键盘Shfit
+10:53	Sharp?	重启
+11:20	Sharp?	outputCommitter
+11:50	Sharp?	美国大选
+13:55	Sharp?	午睡 基金
+14:20	Sharp?	生成局部索引
+14:50	Sharp?	建索引的流程清楚了，局部索引的玩法还不知道
+15:31	Sharp?	换播放器，刷网页
+15:50	Sharp?	刷网页
+16:20	Sharp?	Hadoop 
+16:50	Sharp?	hadoop IO
+17:29	Sharp?	玻璃桥 
+17:50	Sharp?	Hadoop 写入
+
+10.11
+9:16	Sharp?	 准备好文章，加了谈伟
+10:50	Sharp?	刷网页  谈伟 资料
+11:20	Sharp?	打住
+11:50	Sharp?	没打住
+15:01	Sharp?	加内存
+16:18	Sharp?	权威指南
+16:50	Sharp?	装机
+18:04	Sharp?	Git
+19:18	Sharp?	玩
+
+10.12
+8:50	Sharp?	开工，准备讲师文章
+9:55	Sharp?	Note7 PG文章
+10:20	Sharp?	Eclipse 引用
+10:53	Sharp?	RangeQuery
+11:36	Sharp?	分答 财经
+11:50	Sharp?	RangeQuery
+12:20	Sharp?	
+14:26	Sharp?	志鹏买拍
+16:03	Sharp?	困，马总打气
+16:20	Sharp?	整理包
+
+10.13
+9:49	Sharp?	文章 乒乓球
+10:20	Sharp?	ReadFile
+13:45	Sharp?	ReadFile
+14:20	Sharp?	core 包
+16:27	Sharp?	跟马总讨论，继续看
+16:50	Sharp?	查看日志
+17:47	Sharp?	VIZ
+18:27	Sharp?	VIZ 起来了，先这样吧。
+20:01	Sharp?	知乎
+20:20	Sharp?	读SpatialReader
+20:50	Sharp?  看初始化，构造函数读完，
+
+10.14
+9:30	Sharp?	看Reader，资金分配
+9:50	Sharp?	看Reader，跳过行没看懂
+10:22	Sharp?	nextLine 继续往下。初始化看完了
+11:23	Sharp?	解决50070 起不来的问题
+11:50	Sharp?	解决50070 起不来的问题
+14:01	Sharp?	解决50070 起不来的问题,自己编的SpatialHadoop有问题
+14:24	Sharp?	往下看ShapeIterator，Reader 完了。
+14:50	Sharp?	ReadFile里的Reader再看下
+15:20	Sharp?	继续看取全局索引
+15:50	Sharp?	看GridRecordWriter,取全局索引完了
+16:20	Sharp?	看GridRecordWriter困，睡了会
+16:50	Sharp?	看GridRecordWriter困，跟之前的有
+17:20	Sharp?	看GridRecordWriter，应该只有一个Close了，还跟之前的很像
+17:50	Sharp?	看GridRecordWriter,close 有好几块内容，继续
+18:30	Sharp?	吃完饭，玩会
+18:50	Sharp?	看到7点
+19:20	Shapr?	刷了会豆瓣
+19:50	Sharp?	继续OGCESRIShape
+20:20	Sharp?	歇会，继续，到了Rectangle了
+20:58	Sharp?	PG演讲嘉宾
+21:55	Sharp?	看代码，文章发了2篇
+22:20	Sharp?	R树
+
+10.17
+9:27	Sharp?	准备文章
+9:50	Sharp?	给志鹏讲解
+11:27	Sharp?	看代码，Shape和 SpatialAlgorithms 过了
+11:50	Sharp?	看看分布式缓存 ，找了概率论的书
+14:18	Sharp?	看代码
+14：43	Sharp？ 开始看代码，看了会乒乓
+15:22	Sharp?	索引往下，
+16:17	Sharp?	继续Partition 
+17:13	Sharp?	继续分区，乒乓论文，
+17:20	Sharp?	继续看Z曲线，乒乓，Z曲线
+17:50	Sharp?	继续Z曲线分区
+18:50	Sharp?	看半小时球	
+19:31	Sharp?	看代码
+19:50	Sharp?	继续K-d 树，
+
+10.18
+8:54	Sharp?	看看之前的日志
+9:55	Sharp?	看代码，财新,
+10:20	Sharp?	继续IO代码
+10:50	Sharp?	输入输出流的本质，看了MemoryIO
+11:38	Sharp?	读文件
+
+14:04	Sharp?	干活
+14:54	Sharp?	Shadoop 启动流程清楚了
+15:22	Sharp?	继续IO 读懂接口
+16:36	Sharp?	看代码，FilterStream 明白了
+16:50	Sharp?	继续往下，简单文件简单记，发邮件
+17:20	Sharp?	到了Mapred了，跟志鹏讨论合并方式
+17:50	Sharp?	看mapred
+18:20	Sharp?	看mapred吧。看了看笔记
+
+10.19	
+9:20	Sharp?	
+9:50	Sharp?	看代码 ，BinaryReader明白了
+10:20	Sharp?	看代码 ，GridOutputFormat
+10:58	Sharp?	困
+11:20	Sharp?	困 ，	代码关系有点乱
+11:52	Sharp?	两种Reader
+
+14:21	Sharp?	整理新旧代码
+14:50	Sharp?	整理新旧代码
+15:57	Sharp?	看回代码，调试9法，考虑重构质检 
+16:20	Sharp?	看mapred，新旧代码之间关系不明
+
+10.20
+9:38	Sharp?	开工
+10:49	Sharp?	婚礼计划
+11:38	Sharp?	
+12:49	Sharp?	
+
+10.21
+9:39	Sharp?	看画图
+9:50	Sharp?	代码笔记上传到GIT，看看加解密 
+10:20	Sharp?	加解密看明白了
+10:50	Sharp?	继续Git ，整理文章，
+11:20	Sharp?	复习pyramid绘制过程
+
+13:25	Sharp?	按计划来
+13:50	Sharp?	Canvas
+14:25	Sharp?	睡了会，继续。
+14:50	Sharp?	Plot 继续推
+15:20	Sharp?	往下看形状的绘制，绘图大流程通了
+15:55	Sharp?	不间隔练习了。
+16:44	Sharp?	继续看绘图。马总讨论，下周打包。
+17:20	Sharp?	流程基本清楚了
+17:20	Sharp?	流程基本清楚了
+18:36	Sharp?	要资料
+19:14	Sharp?	准备嘉实材料 
+
+***********
+10.24	周一
+9:20	ET	文章暂不准备，买书
+9:50	ET	新打了包，买完书
+10:20	ET	继续，看IO，比较Reader 和InputStream
+11:20	E*T	IO继续往下，看了会书，弄懂UTF和Unicode
+11:50	E*T	拷视频 
+13:58	E*T	Java
+14:20	E*T	java
+16:16	E*T	有些风险必须要担。
+16:50	E*T	OpenGIS  GeoTools
+17:20	E*T	学习GeoTools
+17:50	E*T	学习GeoTools
+19:48	E*T	乒乓教程
+
+10.25
+9:31	E*T	研究Eclipse启动
+9:50	E*T	启动GeoTools，看了会ex运动书
+14:50	E*T	回到GeoTools，整理jar包笔记
+15:20	E*T	记完笔记，准备修改jar包版本了
+15:50	E*T	多版本Java
+18:24	E*T	Java 学习笔记 ，代理  ClassLoader
+18:55	E*T	ClassLoader过了，看张继科防守
+
+10.26
+9:05	E*T	试GeoTools，看到肌的训练部分了
+9:20	E*T	切换JDK版本
+9:50	E*T	试投影GeoTools，Shapefile显示出来了
+10:36	E*T	数据结构课件，做得真好
+11:24	E*T	大地测量书到了
+14:16	E*T	社会底层，多努点力吧。
+14:55	E*T	GeoTools投影 继续切版本
+15:20	E*T	多版本的JDK，再搞搞，投影转换例子起来了
+16:05	E*T	切换投影，QuickStart另一个例子
+
+10.27
+9:39	E*T	GeoTools
+9:50	E*T	GeoTools
+11:37	E*T	GeoTools 投影转换了，有点乱，看看我打的SpatialHadoop的包
+14:40	E*T	画图 
+15:20	E*T	Linux 内核 ，一个地理空间到多个图片空间的映射 
+15:50	E*T	找画图原理
+16:55	E*T	清理QQ
+17:40	E*T	fl
+
+10.28
+9:29	E*T	GeoTools 投影转换
+11:24	E*T	先看OGC官网，再看GeoTools文档，跟少鹏聊，练速度，敏捷开发 
+15:10	E*T	刷知乎 不想干活。
+15:24	E*T	GeoTools
+15:50	E*T	GeoTools
+17:22	E*T	GeoTools
+17:58	E*T	GeoTools
+
+10.31
+9:51	E*T	预处理，看哪些可以合并。
+10:50	E*T	GeoTools
+11:20	E*T	看坐标参考系统  坐标系
+11:50	E*T	大地书看参考系统
+14:13	E*T	玩游戏
+15:01	E*T	
+15:51	E*T	
+16:40	E*T	GeoTools 几何模型
+17:00	E*T	全聚德
+17:50	E*T	GeoTools投影方式基本明白，准备实验
+
+11.1
+9:44	E*T	试验投影，安装好ArcGIS
+10:27	E*T	10.4不行，换10.1，看代码
+10:50	E*T	10.1重新装起，看看坐标转换的原理
+11:20	E*T	明白球面上长度计算
+15:43	E*T	决定领证，不再上瘾CR，晚上定地方。
+16:22	E*T	和欣欣讨论拆分代码的方案
+18:04	E*T	GeoTools 投影可行，试着自己做投影
+
+11.2
+11:20	E*T	尝试在Spatialhadoop中加入投影功能
+14:14	E*T	玩游
+14:50	E*T	试旧版本的GeoTools
+15:20	E*T	
+15:50	E*T	10.8GeoTools在SHadoop中编译成功
+
+11.3
+10:18	E*T	约球，约倪苇，
+11:10	E*T	还是没跑起来
+11：17	E*T	把工程删掉重新加载 就起来了
+
+17:22	E*T	GeoTools 自己投影起来了，也明白文档里是有内容的了
+17:50	E*T	GeoTools  ESRI的投影工具
+
+11.4
+9:30	E*T	借鉴皇室战争 提交代码 看共享攻略 不看了， 交流
+10：30	E*T	交流球 看文章 FeatureType  类图生成插件
+10：50	E*T	opengis-Feature	
+11:20	E*T	账单 同花顺新闻
+11:47	E*T	好长的关于要素文章*1 
+14:20	E*T	玩一中午游戏，看Data吧
+14:36	E*T	下载湄公河行动 扳回一城 
+15：07	E*T  换组合
+15:20	E*T DataStore 看完
+16:20	E*T 
+17:20	E*T  Shp转WKT
+
+11.7
+8:51	E*T  开工
+9：50	E*T  给张大爷买胶布
+10:20	E*T	 
+10:50	E*T  增加投影功能
+11:25	E*T  睡着
+11:50	E*T  单独投影功能
+13:57	E*T  胶布搞定开工
+14:20	E*T	 
+15:54	E*T  测试自定义投影
+16:20	E*T  投影完成，准备测试
+16:50	E*T  索引数据以文件夹的形式存在，投影测试完了
+17:20	E*T  
+
+11.8
+10:16	E*T  看完财经，继续
+14:10	E*T	 搞懂读入WKT的方式
+14:34	E*T  学习理论
+16:47	E*T	 仿射变换
+17：06	E*T  困。
+
+11.9
+9:26	E*T  
+9:50	E*T  美国大选，刷网页
+10:50	E*T	 跟马总讨论，构一个系统
+11:20	E*T  
+14:13	E*T	 下午干活
+16：44	E*T  何友的自定义绘图
+
+11.10	
+16:50	E*T	 JNA JNI 
+
+11.11
+9：22	E*T  
+9:50	E*T  KMP找到例子
+10:22	E*T  实现何友的思路
+14:32	E*T
+14:57	E*T  
+16:50	E*T  问何友问题，整理小实验代码
+
+11.14
+9:10	E*T  下完工时，开工。
+9:50	E*T  游戏瘾
+10:20	E*T  Maven 自动构建 
+10:50	E*T  灿灿彩礼
+11:20	E*T  Style
+13:45	E*T  Style 继续
+14:20	E*T  UML插件，Style
+14:50	E*T  Style+
+15:20	E*T  Style
+16:45	E*T  困，Style，打转
+17:20	E*T  思维导图分析符号化
+17:55	E*T  到了FeatureType
+
+11.15
+9:26	E*T  GeoTools渲染
+10：20	E*T  GeoTools Feature模型
+10:55	E*T  
+13:52	E*T  SpatialHadoop 对Tiger数据建索引 GeoTools 
+14:20	E*T  继续SLD
+15:01	E*T  体检预约，继续
+15:50	E*T  GTRenderer 好像能行
+
+11.16
+9:28	E*T  GeoTools 符号化
+10:06	E*T  收钱，拿裤子。
+10:20	E*T  GeoTools 继续
+13:27	E*T  志哥
+14:20	E*T
+15:56	E*T  试验GeoTools制图
+16:20	E*T  整理测试代码
+
+11.17
+10：30	e*t  使用GeoTools的文档
+10:50	E*T  使用GeoTools的文档
+14:20	E*T  输就输，继续GeoTools
+15:57	E*T  GeoTools移植
+
+11.22
+9:06	E*T  继续用GeoTools
+9:50	E*T  URI URL区别
+10:54	E*T  换法师
+11：18	E*T  表示、绘制要素
+11:50	E*T  读取CSV文件
+14:22	E*T  开工
+15:42	E*T  GeoTools 数据源
+16:24	E*T  GeoTools 数据源
+16:50	E*T  数据源继续 ，刷了会知乎
+query  DataUtilities.collection( feature )  文末链接 嵌套类的分号 查看FeatureID
+SimpleFeatureCollection   collection.accepts
+20:25	E*T  刷知乎
+
+11.23
+11:02   E*T  笔记软件更新GeoTools Repository CSV
+13:28	E*T  CSV 示例继续
+14:17	E*T  OneNote2016 终于好了。
+14:32	E*T  印象笔记
+14:50	E*T  来个半小时
+15:20	E*T  半个小时专心学习
+16:09	E*T  CSVTest
+
+11.24
+10:03	E*T  git 杂事
+15:20	E*T  来2个番茄
+
+11.28
+10:35	E*T 2番茄 做准备Git
+10:50	E*T  改造程序
+11:27	E*T  取色，/
+11:50	E*T  继续改界面
+15:13	E*T  基本改造完成，先这样吧。
+

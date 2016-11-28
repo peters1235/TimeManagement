@@ -27,16 +27,70 @@ namespace TimeManagement
 
         Pomodoro _pomodoro = new Pomodoro();
 
-        DispatcherTimer timer = new DispatcherTimer();
+        DispatcherTimer secondsTimer = new DispatcherTimer();
+        DispatcherTimer halfHourTimer = new DispatcherTimer();
+        string MindPyramidFile = "MindPyramid.txt";
+        string DailyProgressFile = "DailyProgress.txt";
 
         public MainWindow()
         {
             InitializeComponent();
-            
 
             _pomodoro.TimeOver += _pomodoro_TimeOver;
-            timer.Interval = TimeSpan.FromMilliseconds(1000);
-            timer.Tick += timer_Tick;            
+
+            InitHalfHourTimer();
+
+            secondsTimer.Tick += timer_Tick;
+            ResetProgress((int)_pomodoro.CurrentTotalSpan.TotalSeconds);
+
+            InitLogs();
+        }
+
+        private void InitLogs()
+        {
+            string a = System.IO.File.ReadAllText("MindPyramid.txt", Encoding.UTF8);
+
+            FlowDocument flowDoc = new FlowDocument();
+            flowDoc.Blocks.Add(new Paragraph(new Run(a)));                              
+            
+            //flowDoc.Blocks.Add(new Paragraph("\r\n" + DateTime.Now.ToShortTimeString() + "\t" + "E*T" + "\t"));
+            txtMindTracer.Document = flowDoc;
+            txtMindTracer.ScrollToEnd();
+
+            //TextPointer caretPos = txtMindTracer.CaretPosition;
+
+            //// Set the TextPointer to the end of the current document.
+            //caretPos = caretPos.DocumentEnd;
+
+            //// Specify the new caret position at the end of the current document.
+            //txtMindTracer.CaretPosition = caretPos;
+
+
+            //Daily Progress
+            String progresss = System.IO.File.ReadAllText(DailyProgressFile, Encoding.UTF8);
+            FlowDocument progressDoc = new FlowDocument();
+            progressDoc.Blocks.Add(new Paragraph(new Run(progresss)));
+            txtDailyProgress.Document = progressDoc;
+        }
+
+        private void InitHalfHourTimer()
+        {
+            secondsTimer.Interval = TimeSpan.FromMilliseconds(1000);
+            halfHourTimer.Interval = TimeSpan.FromMilliseconds(1800000);
+            halfHourTimer.Tick += halfHourTimer_Tick;
+        }
+
+        void halfHourTimer_Tick(object sender, EventArgs e)
+        {
+            HalfAnHourLater();
+        }
+
+        private void HalfAnHourLater()
+        {
+            SaveMindPyramid();
+            SaveDailyProgress();
+            txtMindTracer.AppendText("\r\n" + DateTime.Now.ToString("G"));
+            this.Activate();
         }
 
         void timer_Tick(object sender, EventArgs e)
@@ -44,19 +98,10 @@ namespace TimeManagement
             _pomodoro.Tick();           
             
             txtRemain.Content = _pomodoro.TimeRemain.ToString("c").Substring(3);
-            double unit =btnProgress.Margin.Right / _pomodoro.TimeRemain.TotalSeconds ;
-            if ( _pomodoro.TimeRemain.TotalSeconds ==0 )
-            {
-                unit = 0;
-            }
-            btnProgress.Margin = new Thickness(btnProgress.Margin.Left,
-                btnProgress.Margin.Top,
-                
-                btnProgress.Margin.Right - unit,
-                btnProgress.Margin.Bottom);
+
+            timeProgress.Value++;   
 
             int secondsGone = (int) (_pomodoro.CurrentTotalSpan.TotalSeconds - _pomodoro.TimeRemain.TotalSeconds);
-
             TaskbarManager.Instance.SetProgressValue(secondsGone
                 , (int)_pomodoro.CurrentTotalSpan.TotalSeconds);
         }
@@ -64,7 +109,7 @@ namespace TimeManagement
         void _pomodoro_TimeOver(object sender, EventArgs e)
         {
             this.Activate();
-            timer.Stop();
+            secondsTimer.Stop();
             if (TimeOver != null)
             {
                 TimeOver(this, null);
@@ -73,33 +118,96 @@ namespace TimeManagement
 
         private void btnPomodoroRelaxLong_Click(object sender, EventArgs e)
         {
+            InitLogs();
+
             _pomodoro.StartLongRelax();
-            timer.Start();
+          
+            ResetProgress((int) _pomodoro.CurrentTotalSpan.TotalSeconds);
+
+            secondsTimer.Start();
+        }
+
+        private void ResetProgress(int seconds)
+        {
+            timeProgress.Maximum = seconds;
+            timeProgress.Value = 0;
         }
 
         private void btnPomodoroRelax_Click(object sender, EventArgs e)
         {
             _pomodoro.StartRelax();
-            timer.Start();
+
+            ResetProgress((int)_pomodoro.CurrentTotalSpan.TotalSeconds);
+
+            secondsTimer.Start();
         }
 
         private void btnPomodoroFocus_Click(object sender, EventArgs e)
         {
             _pomodoro.StartFocus();
-            timer.Start();
+
+            ResetProgress((int)_pomodoro.CurrentTotalSpan.TotalSeconds);
+
+            secondsTimer.Start();
         }
 
         private void btnSwitch_Click(object sender, RoutedEventArgs e)
         {
-            if (timer.IsEnabled)
+            ToggleSecondsTimer();
+
+        }
+
+        private void ToggleSecondsTimer()
+        {
+
+            if (secondsTimer.IsEnabled)
             {
-                timer.Stop();
+                secondsTimer.Stop();
             }
             else
             {
-                timer.Start();
+                secondsTimer.Start();
             }
+        }
 
-        }        
+        private void timeProgress_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            ToggleSecondsTimer();
+        }
+
+        private void txtRemain_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            ToggleSecondsTimer();
+        }
+
+        private void txtMindTracer_TextChanged(object sender, TextChangedEventArgs e)
+        {
+           
+        }
+
+        private void SaveMindPyramid()
+        {
+            TextRange documentTextRange = new TextRange(txtMindTracer.Document.ContentStart, txtMindTracer.Document.ContentEnd);
+            string dataFormat = documentTextRange.Text;
+            System.IO.File.WriteAllText(MindPyramidFile,dataFormat);
+        }
+
+        private void txtDailyProgress_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            
+        }
+
+        private void SaveDailyProgress()
+        {
+            TextRange documentTextRange = new TextRange(txtDailyProgress.Document.ContentStart, txtDailyProgress.Document.ContentEnd);
+            string dataFormat = documentTextRange.Text;
+            System.IO.File.WriteAllText(DailyProgressFile,dataFormat);
+        }
+
+        private void Window_Closing_1(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            SaveMindPyramid();
+            SaveDailyProgress();
+        }   
     }
 }
