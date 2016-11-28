@@ -206,8 +206,24 @@ namespace TimeManagement
 
         private void Window_Closing_1(object sender, System.ComponentModel.CancelEventArgs e)
         {
+            SaveLogs();
+        }
+
+        private void CommandBinding_SaveLogs_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            SaveLogs();
+        }
+
+        private void SaveLogs()
+        {
             SaveMindPyramid();
             SaveDailyProgress();
+        }
+
+        private void CommandBinding_SaveLogs_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            e.CanExecute = true;
         }   
     }
+     
 }
