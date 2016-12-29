@@ -17,7 +17,7 @@
         <Label Name="txtRemain" Content="25:00"  Grid.Row="0"  FontSize="35" Foreground="#FF0A6CF9" Height="60" Width="144" RenderTransformOrigin="0.469,-0.555" Margin="207,21,211,434" Background="{x:Null}" MouseUp="txtRemain_MouseUp"/>
 
         <Button Name="btnPomodoroFocus" Content="紧" Focusable="False"  HorizontalAlignment="Left" Margin="207,123,0,0" VerticalAlignment="Top"  FontSize="30" Height="65" Width="107"  Click="btnPomodoroFocus_Click" RenderTransformOrigin="1.921,0.58" Background="#7FEFF1E5"/>
-        <Button Name="btnPomodoroRelax" Click="btnPomodoroRelax_Click" Focusable="False"  Content="松" HorizontalAlignment="Left" Margin="17,123,0,0" VerticalAlignment="Top"  FontSize="30" Height="65" Width="107" RenderTransformOrigin="2.724,0.534"  Background="#7FEFF1E5"/>
+        <Button Name="btnPomodoroRelax" Click="btnPomodoroRelax_Click" Focusable="False"  Content="松" HorizontalAlignment="Left" Margin="10,123,0,0" VerticalAlignment="Top"  FontSize="30" Height="65" Width="107" RenderTransformOrigin="2.724,0.534"  Background="#7FEFF1E5"/>
 
         <TabControl HorizontalAlignment="Left" Height="267" Margin="10,222,0,0" VerticalAlignment="Top" Width="532">
             <TabItem Header="番茄日志">
