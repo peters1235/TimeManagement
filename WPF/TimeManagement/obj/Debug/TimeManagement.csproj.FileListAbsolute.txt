@@ -53,3 +53,4 @@ E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement.g.resources
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement.Properties.Resources.resources
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement.csproj.GenerateResource.Cache
 E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement_MarkupCompile.lref
+E:\16\TimeManagement\WPF\TimeManagement\obj\Debug\TimeManagement.csprojResolveAssemblyReference.cache

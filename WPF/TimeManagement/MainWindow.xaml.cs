@@ -35,7 +35,7 @@ namespace TimeManagement
         public MainWindow()
         {
             InitializeComponent();
-
+            this.WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             _pomodoro.TimeOver += _pomodoro_TimeOver;
 
             InitHalfHourTimer();
@@ -55,22 +55,13 @@ namespace TimeManagement
             
             //flowDoc.Blocks.Add(new Paragraph("\r\n" + DateTime.Now.ToShortTimeString() + "\t" + "E*T" + "\t"));
             txtMindTracer.Document = flowDoc;
-            txtMindTracer.ScrollToEnd();
+            txtMindTracer.Focus();            
 
-            //TextPointer caretPos = txtMindTracer.CaretPosition;
-
-            //// Set the TextPointer to the end of the current document.
-            //caretPos = caretPos.DocumentEnd;
-
-            //// Specify the new caret position at the end of the current document.
-            //txtMindTracer.CaretPosition = caretPos;
-
-
-            //Daily Progress
-            String progresss = System.IO.File.ReadAllText(DailyProgressFile, Encoding.UTF8);
-            FlowDocument progressDoc = new FlowDocument();
-            progressDoc.Blocks.Add(new Paragraph(new Run(progresss)));
-            txtDailyProgress.Document = progressDoc;
+            ////Daily Progress
+            //String progresss = System.IO.File.ReadAllText(DailyProgressFile, Encoding.UTF8);
+            //FlowDocument progressDoc = new FlowDocument();
+            //progressDoc.Blocks.Add(new Paragraph(new Run(progresss)));
+            //txtDailyProgress.Document = progressDoc;
         }
 
         private void InitHalfHourTimer()
@@ -199,9 +190,9 @@ namespace TimeManagement
 
         private void SaveDailyProgress()
         {
-            TextRange documentTextRange = new TextRange(txtDailyProgress.Document.ContentStart, txtDailyProgress.Document.ContentEnd);
-            string dataFormat = documentTextRange.Text;
-            System.IO.File.WriteAllText(DailyProgressFile,dataFormat);
+            //TextRange documentTextRange = new TextRange(txtDailyProgress.Document.ContentStart, txtDailyProgress.Document.ContentEnd);
+            //string dataFormat = documentTextRange.Text;
+            //System.IO.File.WriteAllText(DailyProgressFile,dataFormat);
         }
 
         private void Window_Closing_1(object sender, System.ComponentModel.CancelEventArgs e)
